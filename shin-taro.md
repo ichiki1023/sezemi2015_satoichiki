@@ -1,3 +1,3 @@
-# shin-ta
+# shin-taro
 * B4
-* JAva,PHP,JavaScript
+* Java,PHP,JavaScript
